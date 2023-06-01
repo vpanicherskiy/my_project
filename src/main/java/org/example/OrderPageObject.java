@@ -106,3 +106,4 @@ public class OrderPageObject {
         MatcherAssert.assertThat("Заказ не создался", labelText, startsWith("Заказ оформлен"));
     }
 }
+

@@ -47,3 +47,4 @@ public class MainPageObject {
         Assert.assertEquals(expected, elementText);
     }
 }
+
